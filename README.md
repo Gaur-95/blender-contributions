@@ -10,7 +10,7 @@ This repository tracks my contributions to the Blender project and its documenta
    - **Status:** Pending Review
    - **Date:** November 2024
    - **Description:** Fixed documentation error where Render Time and Sample Count pass descriptions were incorrectly swapped
-   - **Link:** [View PR](PASTE_YOUR_PR_LINK_HERE)
+   - **Link:** [View PR]([PASTE_YOUR_PR_LINK_HERE](https://projects.blender.org/blender/blender-manual/pulls/105359))
    - **Repository:** blender-manual
 
 ---
